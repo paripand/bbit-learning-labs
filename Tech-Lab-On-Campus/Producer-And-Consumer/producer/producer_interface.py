@@ -12,6 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# test comment
 
 class mqProducerInterface:
     def __init__(self, routing_key: str, exchange_name: str) -> None:
